@@ -1,0 +1,21 @@
+{
+  "name": "nnft-api",
+  "version": "0.1.0",
+  "description": "API for Stellar NNFT GET",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Warrior Of Light",
+  "license": "MIT",
+  "devDependencies": {
+    "base32.js": "0.1.0",
+    "buffer": "^6.0.3",
+    "crypto-browserify": "3.12.0",
+    "minimalistic-crypto-utils": "1.0.1",
+    "sha256": "^0.2.0",
+    "tweetnacl": "^1.0.3",
+    "webpack": "^5.47.1",
+    "webpack-cli": "^4.7.2"
+  }
+}
